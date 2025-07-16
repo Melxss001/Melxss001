@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Olá! 👋 Me chamo Melissa</h1>
 
-<!--
-**Melxss001/Melxss001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>Estudante backend | C#, .NET, Python, MySQL | GitHub em construção 🛠️</strong>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tecnologias que estou estudando e usando:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,mysql,git,github,vscode,visualstudio&theme=dark" />
+</p>
+
+---
+
+### 📚 Um pouco sobre mim:
+- 👩‍💻 Sou estudante de ADS
+- 🚀 Estudo C#, .NET, Python e MySQL com foco em aplicações reais
+- 💡 Gosto de resolver problemas com código limpo e simples
+- 🎯 Estou sempre em busca de aprender mais e aplicar o que estudo
+
+---
+
+### 📊 GitHub Stats:
+![Melissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Melxss001&show_icons=true&theme=radical)
