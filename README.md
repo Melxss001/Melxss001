@@ -24,6 +24,8 @@
 ### 📊 GitHub Stats:
 ![Melissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Melxss001&show_icons=true&theme=radical)
 
+---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Melxss001/Melxss001/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Melxss001/Melxss001/output/pacman-contribution-graph.svg">
